@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Principal {
+public class Principal {
+    Cliente cliente1 = new Cliente();
 }
